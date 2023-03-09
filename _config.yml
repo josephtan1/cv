@@ -1,1 +1,10 @@
-theme: metadata
+# Site settings
+title: My Awesome Site
+description: A description of my site
+url: https://myawesomesite.com
+
+# Build settings
+theme: my-awesome-theme
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
